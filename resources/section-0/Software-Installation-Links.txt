@@ -1,0 +1,34 @@
+********** OpenJDK 8 **********
+Windows - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+Other Platforms - https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot
+
+
+
+********** Maven **********
+Windows & Linux - https://maven.apache.org/download.cgi
+MacOS - https://mkyong.com/maven/install-maven-on-mac-osx/
+
+
+
+********** Anypoint Studio **********
+Select OS and download - https://www.mulesoft.com/lp/dl/studio
+
+
+
+********** Mule Standalone Server **********
+https://www.mulesoft.com/lp/dl/mule-esb-enterprise
+
+
+
+********** Git Bash ********** 
+All OS - https://git-scm.com/downloads
+
+
+
+********** SOAP UI **********
+https://www.soapui.org/downloads/soapui/
+
+
+
+********** Postman **********
+Windows & Mac - https://www.postman.com/downloads/
