@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>233aa62b-f78c-42fa-8c61-fde2c6d14e5e</groupId>
+  <artifactId>super-biodata-sapi</artifactId>
+  <version>1.0.0</version>
+  <name>Super BioData SAPI</name>
+  <properties>
+    <classifier>raml</classifier>
+    <main>super-biodata-sapi.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <apiVersion>1.0</apiVersion>
+    <projectId>03613cc9-4e83-4bfc-aec7-a4abc5138612</projectId>
+    <branchId>master</branchId>
+    <commitId>a111a71f451f912829538114cd4e45d68a7a81f4</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>super-biodata-sapi.raml</mainFile>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>org.mule.examples</groupId>
+      <version>1.0.0</version>
+      <type>zip</type>
+      <classifier>raml-fragment</classifier>
+      <artifactId>basic-auth-securityscheme</artifactId>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
